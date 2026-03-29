@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Іван",
+    "age": 25,
+    "city": "Київ",
+    "email": "ivan1@example.com",
+    "isStudent": true,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 2,
+    "name": "Олена",
+    "age": 30,
+    "city": "Львів",
+    "email": "olena2@example.com",
+    "isStudent": false,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 3,
+    "name": "Петро",
+    "age": 22,
+    "city": "Харків",
+    "email": "petro3@example.com",
+    "isStudent": true,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 4,
+    "name": "Марія",
+    "age": 28,
+    "city": "Одеса",
+    "email": "maria4@example.com",
+    "isStudent": false,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 5,
+    "name": "Андрій",
+    "age": 35,
+    "city": "Дніпро",
+    "email": "andriy5@example.com",
+    "isStudent": false,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 6,
+    "name": "Світлана",
+    "age": 27,
+    "city": "Запоріжжя",
+    "email": "svitlana6@example.com",
+    "isStudent": true,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 7,
+    "name": "Олег",
+    "age": 31,
+    "city": "Чернівці",
+    "email": "oleg7@example.com",
+    "isStudent": false,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 8,
+    "name": "Наталія",
+    "age": 24,
+    "city": "Тернопіль",
+    "email": "nataliia8@example.com",
+    "isStudent": true,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 9,
+    "name": "Василь",
+    "age": 29,
+    "city": "Івано-Франківськ",
+    "email": "vasyl9@example.com",
+    "isStudent": false,
+    "createdAt": "2026-03-29"
+  },
+  {
+    "id": 10,
+    "name": "Юлія",
+    "age": 26,
+    "city": "Вінниця",
+    "email": "yuliia10@example.com",
+    "isStudent": true,
+    "createdAt": "2026-03-29"
+  }
+]
